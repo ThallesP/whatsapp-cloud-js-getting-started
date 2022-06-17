@@ -7,8 +7,8 @@ Clone this repository with:
 ```bash
 git clone https://github.com/ThallesP/whatsapp-cloud-getting-started
 ```
-Install the dependencies with your favorite package manager (npm, yarn).
-In the file [index.js](src/index.js) replace with your credentials from [Facebook developers](developers.facebook.com).  
+Install the dependencies with your favorite package manager (npm, yarn).  
+In the file [index.js](src/index.js) replace with your credentials from [Facebook developers](developers.facebook.com).
 
 # 🚀 How to run
 ```bash
@@ -19,4 +19,4 @@ yarn start
 npm run start
 ```
 
-Congratulations, you just sent your first message with Whatsapp-cloud.js! Let's celebrate 🥳🎉
+Congratulations, you just sent your first message with whatsapp-cloud.js! Let's celebrate 🥳🎉
