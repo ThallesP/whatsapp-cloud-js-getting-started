@@ -1,4 +1,5 @@
 <h1 align="center">whatsapp-cloud-js-getting-started</h1>
+
 Want to get started with [whatsapp-cloud.js](https://github.com/ThallesP/whatsapp-cloud.js)? You're in the correct place!
 
 # ✨ First steps
