@@ -1,0 +1,11 @@
+{
+  "name": "whatsapp-cloud-getting-started",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ThallesP/whatsapp-cloud-getting-started.git",
+  "author": "Thalles Passos <contato@thalles.me>",
+  "license": "MIT",
+  "dependencies": {
+    "whatsapp-cloud.js": "^1.0.3"
+  }
+}
