@@ -5,6 +5,9 @@
   "repository": "https://github.com/ThallesP/whatsapp-cloud-getting-started.git",
   "author": "Thalles Passos <contato@thalles.me>",
   "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js"
+  },
   "dependencies": {
     "whatsapp-cloud.js": "^1.0.3"
   }
